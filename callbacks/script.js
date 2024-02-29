@@ -72,17 +72,17 @@
 
 //pakai jquery
 //jquery cdn
-console.log("Startttt");
-$.ajax({
-  url: "data/mahasiswa.json",
-  success: (mhs) => {
-    //console.log(mhs); //bentuk sudah langsung object tidak perlu parse
-    mhs.forEach((element) => {
-      console.log(element.nama);
-    });
-  },
-  error: (e) => {
-    console.log(e.responseText);
-  },
-});
-console.log("ENDDD");
+// console.log("Startttt");
+// $.ajax({
+//   url: "data/mahasiswa.json",
+//   success: (mhs) => {
+//     //console.log(mhs); //bentuk sudah langsung object tidak perlu parse
+//     mhs.forEach((element) => {
+//       console.log(element.nama);
+//     });
+//   },
+//   error: (e) => {
+//     console.log(e.responseText);
+//   },
+// });
+// console.log("ENDDD");
