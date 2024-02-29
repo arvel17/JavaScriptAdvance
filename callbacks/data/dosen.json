@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "haryanto",
+    "umur": 56,
+    "jurusan": "computer science"
+  },
+  {
+    "nama": "Shinta",
+    "umur": 35,
+    "jurusan": "accounting"
+  },
+  {
+    "nama": "Surya",
+    "umur": 68,
+    "jurusan": "DKV"
+  },
+  {
+    "nama": "Santi",
+    "umur": 30,
+    "jurusan": "business"
+  },
+  {
+    "nama": "Angela",
+    "umur": 28,
+    "jurusan": "accounting"
+  }
+]
